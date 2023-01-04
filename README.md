@@ -1,6 +1,7 @@
 
-<h1>Check out a little bit of my work</h1>
+<h1>Here's a little bit of my work</h1>
 
+### Check out my [blog](https://crvvdev.github.io/)!
 
 <h3>Popular Projects</h3>
 
