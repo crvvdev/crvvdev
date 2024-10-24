@@ -24,6 +24,7 @@ I've been doing this all my life really but in the last 5+ years i had real expe
  - [titancf](https://github.com/crvvdev/titancf) - A project that i had in 2019 for CrossFire, an (ex)popular FPS game here in Brazil.
  - [iw4mp](https://github.com/crvvdev/iw4mp) - Call of Duty: Modern Warfare 2 (2009) cheat code base
  - [Intraceptor](https://github.com/crvvdev/intraceptor) - Intercept Windows NT API calls and redirect them to a kernel driver to bypass process/threads handle protections.
+ - [VAC kernel-mode bypass](https://github.com/crvvdev/vac-bypass-kernel) - Bypass for Valve Anti-cheat in kernel-mode (ring 0)
 
 <h3>Contact</h3>
 
