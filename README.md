@@ -25,15 +25,15 @@ I've been doing this all my life really but in the last 5+ years i had real expe
  - [iw4mp](https://github.com/crvvdev/iw4mp) - Call of Duty: Modern Warfare 2 (2009) cheat code base
  - [Intraceptor](https://github.com/crvvdev/intraceptor) - Intercept Windows NT API calls and redirect them to a kernel driver to bypass process/threads handle protections.
  - [VAC kernel-mode bypass](https://github.com/crvvdev/vac-bypass-kernel) - Bypass for Valve Anti-cheat in kernel-mode (ring 0)
+ - [Loader Client and Server](https://github.com/crvvdev/loader-clientserver/tree/main) - A skeleton project for a cheat loader client and server
 
 <h3>Contact</h3>
 
 Check out my [blog](https://crvvdev.github.io/)!
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="middle" alt="Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] [<img align="middle" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="middle" alt="Telegram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram] [<img align="middle" alt="Telegram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 [twitter]: https://twitter.com/crvvdev
 [telegram]: https://t.me/crvvdev
 [linkedin]: https://www.linkedin.com/in/ricardo-carvalho-4677b1194/
+[discord]: https://discord.com/invite/Bxrk4EpQ
