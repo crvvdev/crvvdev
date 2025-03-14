@@ -33,7 +33,7 @@ Check out my [blog](https://crvv.dev/)!
 
 [<img align="middle" alt="Twitter" width="32px" src="https://cdn.simpleicons.org/x?viewbox=auto" />][twitter] [<img align="middle" alt="LinkedIn" width="32px" src="https://cdn.simpleicons.org/linkedin?viewbox=auto" />][linkedin] [<img align="middle" alt="Telegram" width="32px" src="https://cdn.simpleicons.org/telegram?viewbox=auto" />][telegram] [<img align="middle" alt="Telegram" width="32px" src="https://cdn.simpleicons.org/discord?viewbox=auto" />][discord]
 
+[linkedin]: https://www.linkedin.com/in/ricardo-carvalho-4677b1194/
 [twitter]: https://x.com/crvvdev
 [telegram]: https://t.me/crvvdev
-[linkedin]: https://www.linkedin.com/in/ricardo-carvalho-4677b1194/
 [discord]: https://discord.com/invite/Bxrk4EpQ
