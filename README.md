@@ -31,7 +31,7 @@ I've been doing this all my life really but in the last 5+ years i had real expe
 
 Check out my [blog](https://crvv.dev/)!
 
-[<img align="middle" alt="Twitter" width="32px" src="https://cdn.simpleicons.org/javascript?viewbox=auto" />][twitter] [<img align="middle" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="middle" alt="Telegram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram] [<img align="middle" alt="Telegram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="middle" alt="Twitter" width="32px" src="https://cdn.simpleicons.org/x?viewbox=auto" />][twitter] [<img align="middle" alt="LinkedIn" width="32px" src="https://cdn.simpleicons.org/linkedin?viewbox=auto" />][linkedin] [<img align="middle" alt="Telegram" width="32px" src="https://cdn.simpleicons.org/telegram?viewbox=auto" />][telegram] [<img align="middle" alt="Telegram" width="32px" src="https://cdn.simpleicons.org/discord?viewbox=auto" />][discord]
 
 [twitter]: https://x.com/crvvdev
 [telegram]: https://t.me/crvvdev
