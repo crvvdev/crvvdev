@@ -26,6 +26,9 @@ I've been doing this all my life really but in the last 5+ years i had real expe
  - [Intraceptor](https://github.com/crvvdev/intraceptor) - Intercept Windows NT API calls and redirect them to a kernel driver to bypass process/threads handle protections.
  - [VAC kernel-mode bypass](https://github.com/crvvdev/vac-bypass-kernel) - Bypass for Valve Anti-cheat in kernel-mode (ring 0)
  - [Loader Client and Server](https://github.com/crvvdev/loader-clientserver/tree/main) - A skeleton project for a cheat loader client and server
+ - [jm-xorstr decrypt IDA script](https://github.com/crvvdev/ida-jm-xorstr-decrypt-plugin) - A IDA script to (try) decrypt jm-xorstr statically
+ - [lazy_importer_ex](https://github.com/crvvdev/lazy_importer_ex) - lazy_importer is a tool to make reverse engineering harder by inline parsing and obtaining imports, this is a improved version with kernel-mode support.
+ - [EMACLAB Anticheat Reversal](https://github.com/crvvdev/emaclab-reversal) - The first and only reverse engineered IDA database of EMACLAB Anticheat, often called GamersClub Anticheat.
 
 <h3>Contact</h3>
 
